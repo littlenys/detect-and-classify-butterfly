@@ -1,0 +1,14 @@
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+D:\20201\AI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
